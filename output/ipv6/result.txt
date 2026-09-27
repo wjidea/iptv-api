@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-09-20 16:25:23,https://xykt-fix.github.io/Y77.m3u8
+2026-09-27 17:01:01,https://xykt-fix.github.io/Y77.m3u8
 
 📺央视频道,#genre#
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 💰央视付费频道,#genre#
@@ -40,7 +40,7 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 
 🎬电影频道,#genre#
-天映经典,https://cdn.qd.je/163189/ccm
+天映经典,https://10.fast.hidns.vip/163189/ccm/
 天映经典,http://free.cnlive.club/channel/n7e49c99a.m3u8?q=111.170.171.148
 
 🎥咪咕直播,#genre#
@@ -50,8 +50,8 @@ Viutv,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 足球频道,https://epg.pw/stream/c7df950876e6a1ceb8be74ee86f9f702cebbbae29f1d15124ef8f86fd43161cf.m3u8
 
 🪁动画频道,#genre#
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 七龙珠,https://live.metshop.top/huya/11601966
 七龙珠,https://live.ottiptv.cc/huya/11601966
 海绵宝宝,https://live.metshop.top/douyu/3949681
